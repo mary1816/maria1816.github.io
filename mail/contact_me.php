@@ -2,10 +2,10 @@
 $email_address = filter_var($_POST['email'], FILTER_VALIDATE_EMAIL);
 
 // Check for empty fields
-if(empty($_POST['name'])  		||
-   empty($_POST['email']) 		||
-   empty($_POST['phone']) 		||
-   empty($_POST['message'])	||
+if(empty($_POST['nombre'])  		||
+   empty($_POST['correo electronico']) 		||
+   empty($_POST['telefono']) 		||
+   empty($_POST['mensaje'])	||
    !$email_address)
    {
 	echo "No arguments Provided!";
