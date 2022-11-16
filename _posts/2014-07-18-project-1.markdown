@@ -7,7 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Soy de la Ciudad de Latacunga de una parroquia llamada Toacaso, en toda mi vida he vivido en diferentes lugares 
-en mi niñez vivia en la Ciudad de Guayaquil, en mi adolesencia en la Ciudad de Latacunga y por mis estudios superiores
-en la Ciudad de Riobamba. Nam.
+description: Soy de la Ciudad de Latacunga, en toda mi vida he vivido en diferentes lugares en mi niñez vivia en la Ciudad de Guayaquil,
+en mi adolesencia en la Ciudad de Latacunga y por mis estudios superiores en la Ciudad de Riobamba. Nam.
 ---
