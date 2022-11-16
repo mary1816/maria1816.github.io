@@ -7,5 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Soy de la Ciudad de Latacunga de una parroquia llamada Toacaso, en toda mi vida he vivido en diferentes lugares 
+en mi niñez vivia en la Ciudad de Guayaquil, en mi adolesencia en la Ciudad de Latacunga y por mis estudios superiores
+en la Ciudad de Riobamba. Nam.
 ---
